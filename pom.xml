@@ -3,7 +3,7 @@
 		http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>clinic.programmming</groupId>
-     <!-- the artifactId is the name of the individual artifact, or jar file, that we will be creating -->
+    <!-- the artifactId is the name of the individual artifact, or jar file, that we will be creating -->
     <artifactId>maven-quick-start</artifactId>
     <version>1.0</version>
 </project>
