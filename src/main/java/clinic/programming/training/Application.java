@@ -3,7 +3,8 @@ package clinic.programming.training;
 import java.util.ArrayList;
 import java.util.List;;
 
-public class Application {
+public class Application
+{
 
     public Application()
     {
